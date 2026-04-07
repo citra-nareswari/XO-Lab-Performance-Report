@@ -13,7 +13,7 @@
         <br><br>
         Between 2019 and 2022, XO Lab generated over <strong>100K orders</strong> from approximately <strong>88K customers</strong>, resulting in more than <strong>$28 million in revenue</strong>. This dataset captures key business dimensions, including sales, product performance, marketing channels, purchase platform, customer behavior, and operational metrics across regions and loyalty segments.
       </div>
-      <h3 align="center">Objective</h3>
+      <h2 align="center">Objective</h2>
       <div align="justify">
         This analysis evaluates XO Lab’s four-year (2019–2022) business performance to identify key growth drivers and operational challenges. The goal is to deliver actionable insights that support data-driven decision-making across cross-functional teams.
         <br><br>
@@ -30,19 +30,16 @@
     </td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td width="1440" colspan="2">
       <h1 align="center">Executive Summary</h1>
       <div align="center">
         <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/9d850cf777f68815459bf5150c3d7d6115831edb/images/Picture2.png" />
       </div>
+      <br>
       <div align="justify">
         XO Lab experienced a clear business lifecycle: hypergrowth in 2020, stabilization in 2021, and decline in 2022, reflecting pandemic-driven demand shifts and post-pandemic normalization.
       </div>
-    </td>
-  </tr>
+      <br>
+<table align="center">
   <tr>
     <td width="720" valign="top" align="justify">
       <ol>
@@ -96,10 +93,11 @@
   </tr>
 </table>
 
-<h1 align="center">Insights</h1>
+
 
 <table align="center">
   <tr>
+  <h1 align="center">Insights</h1>
     <td width="1440" colspan="2">
       <h2 align="center">Sales Performance Overview</h2>
     </td>
@@ -127,21 +125,20 @@
               <li>Growth momentum began in <strong>March 2020 (+50% MoM)</strong> and sustained through Q4, with monthly revenue consistently reaching <strong>$850K–$1.25M</strong> in 2nd half of 2020, roughly <strong>2.7x the same months in 2019.</strong></li>
               <li>2021 held a structurally higher baseline at <strong>$9.1M (-10% YoY),</strong> with monthly revenue stabilizing in the <strong>$631K–$1.03M</strong> range indicating a post-peak normalization.</li>
             </ul>
-            <ol>
               <li>
                 Q3–Q4 seasonality held from 2019 to 2021, then structurally broke in 2022
-                <ol>
+                <ul>
                   <li>From 2019 to 2021, <strong>Q3–Q4 consistently outperformed on holiday-driven demand</strong> (Black Friday, Christmas), making seasonality a reliable planning anchor.</li>
                   <li>That pattern broke sharply in 2022<strong>: Q4 2022 recorded just $649K</strong>, down 71% YoY from $2.28M in Q4 2021 making it the <strong>lowest quarterly</strong> <strong>result</strong> across the entire four-year period<strong>.</strong></li>
                   <li><strong>Revenue declined across every quarter in 2022</strong>, with full-year revenue falling to $5.0M (-46% YoY), a pace of decline that exceeds typical post-pandemic normalization.</li>
-                </ol>
+                </ul>
               </li>
               <li>
                 2022 signals a structural problem and demands a focused diagnosis
-                <ol>
+                <ul>
                   <li>The 2022 trajectory is not consistent with a demand correction alone, a -46% annual decline that steepens in Q4 points to <strong>possible customer retention failure</strong>, <strong>competitive displacement</strong>, or a <strong>product-market fit</strong> that was pandemic-specific.</li>
                   <li>This requires further analysis on retention cohorts, acquisition channels, and product mix to isolate the root cause.</li>
-                </ol>
+                </ul>
               </li>
             </ol>
           </li>
@@ -160,12 +157,12 @@
           </li>
           <li>
             <a name="_hlk226117856"></a>2022 AOV reset indicates a return to baseline purchasing behavior
-            <ol>
+            <ul>
               <li>By 2022<strong>, AOV fully reverted to 2019 pre-pandemic baseline</strong>, suggesting that pandemic-driven basket expansion was not structurally sustained.</li>
               <li>Monthly AOV 2022 showed <strong>high volatility</strong>, fluctuating from <strong>$217 (Aug) to $256 (Sep) to $216 (Oct)</strong>, indicating short-term fluctuations rather than consistent growth.</li>
               <li>Q4 2022 AOV remained significantly below prior years, highlighting weaker holiday spending per transaction.</li>
               <li>Over the four-year period<strong>, AOV changes were relatively modest compared to fluctuations in order volume</strong>, indicating that revenue performance is primarily volume-driven rather than price-driven.</li>
-            </ol>
+            </ul>
           </li>
         </ol>
       </div>
@@ -354,7 +351,6 @@
               <li>C<a name="_hlk226301727"></a>hurned customers <strong>contribute ~$17.4M (62% of total revenue)</strong> vs <strong>$10.7M (38%)</strong> from retained, showing that the business relies heavily on <strong>one-time or short-lived customers.</strong> This pattern is consistent across years, particularly in high-growth periods (e.g., 2020–2021), where churned revenue dominates most quarters.</li>
               <li>This indicates a structural imbalance, where <strong>acquisition drives revenue more than long-term customer value</strong></li>
             </ul>
-            <ol>
               <li>
                 Retained customers generate higher AOV, highlighting stronger customer quality
                 <ul>
