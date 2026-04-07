@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="320px" src="https://raw.githubusercontent.com/citra-nareswari/XO-Lab-Performance-Report/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture1.png" alt="XO Lab cover" />
+  <img height="130px" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture1.png" alt="XO Lab cover" />
 </div>
 
 <h1 align="center">XO Lab Business Performance Report</h1>
@@ -10,15 +10,15 @@
 
 <table align="center">
   <tr>
-    <td width="1440">
+    <td width="1440" align="justify">
       <h2 align="center">Business Background</h2>
-      <p>
+      <p align="justify">
         <strong>XO Lab</strong> is a US-based e-commerce company specializing in consumer electronics and accessories for a global customer base, with a stronger focus on gaming support products. Since its establishment in 2018, the company has experienced rapid growth alongside increasing competition and shifting market dynamics during the COVID-19 pandemic.
       </p>
-      <p>
+      <p align="justify">
         Between <strong>2019 and 2022</strong>, XO Lab generated over <strong>100K orders</strong> from approximately <strong>88K customers</strong>, resulting in more than <strong>$28 million in revenue</strong>. The dataset captures key business dimensions across sales, product performance, marketing channels, customer behavior, loyalty segments, and regional operations.
       </p>
-      <p>
+      <p align="justify">
         This analysis evaluates XO Lab’s four-year business performance to identify key growth drivers, structural risks, and strategic opportunities that can support more informed business decisions.
       </p>
       <h3>North Star Metrics</h3>
@@ -34,11 +34,11 @@
 
 <table align="center">
   <tr>
-    <td width="1440">
+    <td width="1440" align="justify">
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Business Performance Overview (2019–2022)</h3>
       <div align="center">
-        <img width="1000" src="https://raw.githubusercontent.com/citra-nareswari/XO-Lab-Performance-Report/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture2.png" alt="XO Lab executive summary" />
+        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture2.png" alt="XO Lab executive summary" />
       </div>
     </td>
   </tr>
@@ -46,7 +46,7 @@
     <td>
       <table align="center">
         <tr>
-          <td width="460" valign="top">
+          <td width="460" valign="top" align="justify">
             <ol>
               <li>
                 <strong>Peak Growth in 2020</strong>
@@ -66,7 +66,7 @@
               </li>
             </ol>
           </td>
-          <td width="460" valign="top">
+          <td width="460" valign="top" align="justify">
             <ol start="3">
               <li>
                 <strong>Revenue Was Primarily Volume-Driven</strong>
@@ -98,18 +98,18 @@
   <tr>
     <td width="720" align="center" valign="top">
       <h3>Sales Performance Overview</h3>
-      <img width="95%" src="https://raw.githubusercontent.com/citra-nareswari/XO-Lab-Performance-Report/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture3.png" alt="XO Lab sales overview 1" />
+      <img width="95%" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture3.png" alt="XO Lab sales overview 1" />
     </td>
     <td width="720" align="center" valign="top">
       <h3>Sales Performance Overview</h3>
-      <img width="95%" src="https://raw.githubusercontent.com/citra-nareswari/XO-Lab-Performance-Report/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture4.png" alt="XO Lab sales overview 2" />
+      <img width="95%" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture4.png" alt="XO Lab sales overview 2" />
     </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <td width="1440" valign="top">
+    <td width="1440" valign="top" align="justify">
       <h2 align="center">Sales Trends</h2>
       <ul>
         <li><strong>2020–2021:</strong> XO Lab benefited from the pandemic-driven e-commerce surge, with revenue rising from <strong>$3.9M</strong> in 2019 to <strong>$10.2M</strong> in 2020.</li>
@@ -124,7 +124,7 @@
 
 <table align="center">
   <tr>
-    <td width="700" valign="top">
+    <td width="700" valign="top" align="justify">
       <h2 align="center">Product Performance</h2>
       <ul>
         <li><strong>LG 27-inch 4K Monitor</strong> was the top revenue driver, contributing about <strong>$9.8M</strong> or <strong>35%</strong> of total revenue.</li>
@@ -133,7 +133,7 @@
         <li>Several products such as <strong>Logitech Mouse</strong>, <strong>Webcam</strong>, <strong>ASUS ROG Phone</strong>, and <strong>HyperX Headset</strong> underperformed relative to portfolio breadth.</li>
       </ul>
     </td>
-    <td width="700" valign="top">
+    <td width="700" valign="top" align="justify">
       <h2 align="center">Refund Rate</h2>
       <ul>
         <li>Refund rates peaked in <strong>2020</strong>, especially for high-value products.</li>
@@ -147,7 +147,7 @@
 
 <table align="center">
   <tr>
-    <td width="700" valign="top">
+    <td width="700" valign="top" align="justify">
       <h2 align="center">Customer Behavior</h2>
       <ul>
         <li>Non-loyalty customers initially generated higher AOV, but loyalty customers narrowed the gap and outperformed in parts of 2022.</li>
@@ -156,7 +156,7 @@
         <li>Retained customers showed stronger customer quality, with higher overall AOV and stronger lifetime value potential.</li>
       </ul>
     </td>
-    <td width="700" valign="top">
+    <td width="700" valign="top" align="justify">
       <h2 align="center">Operational Performance</h2>
       <ul>
         <li><strong>North America</strong> was the main revenue engine, contributing around <strong>52%</strong> of total revenue.</li>
@@ -170,7 +170,7 @@
 
 <table align="center">
   <tr>
-    <td width="1440">
+    <td width="1440" align="justify">
       <h1 align="center">Recommendations</h1>
       <ul>
         <li><strong>Protect peak seasons:</strong> strengthen inventory and campaign planning ahead of Q3–Q4 to secure the highest-contributing revenue period.</li>
