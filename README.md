@@ -167,7 +167,7 @@
         </ol>
       </div>
       <div align="center">
-        <img width="1000" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.005.png" />
+        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture5.png" />
       </div>
       <h3 align="center">Order Volume</h3>
       <div align="justify">
@@ -186,15 +186,15 @@
 <table align="center">
   <tr>
     <td width="1440" colspan="2">
-      <h2 align="center"><img width="36" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.006.png" /> Product Performance Overview</h2>
+      <h2 align="center"><img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" /> Product Performance Overview</h2>
     </td>
   </tr>
   <tr>
     <td align="center" width="720">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.007.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture7.png" />
     </td>
     <td align="center" width="720">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.008.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture8.png" />
     </td>
   </tr>
 </table>
@@ -242,7 +242,7 @@
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center"><img width="36" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.009.png" /> Refund Rate</h2>
+      <h2 align="center"><img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture9.png" /> Refund Rate</h2>
     </td>
   </tr>
   <tr>
@@ -279,10 +279,10 @@
   </tr>
   <tr>
     <td width="720" align="center">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.010.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture10.png" />
     </td>
     <td width="720" align="center">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.011.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture11.png" />
     </td>
   </tr>
 </table>
@@ -329,13 +329,13 @@
   </tr>
   <tr>
     <td width="480" align="center">
-      <img width="300" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.012.png" />
+      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture12.png" />
     </td>
     <td width="480" align="center">
-      <img width="300" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.013.png" />
+      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture13.png" />
     </td>
     <td width="480" align="center">
-      <img width="300" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.014.png" />
+      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture14.png" />
     </td>
   </tr>
 </table>
@@ -381,7 +381,7 @@
       <h2 align="center">Operational Performance</h2>
       <h3 align="center">Regional Performance</h3>
       <div align="center">
-        <img width="1000" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.015.png" />
+        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture15.png" />
       </div>
     </td>
   </tr>
@@ -408,10 +408,10 @@
   </tr>
   <tr>
     <td width="720" align="center">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.016.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture16.png" />
     </td>
     <td width="720" align="center">
-      <img width="460" src="Aspose.Words.0d129838-17b4-4d1f-b5e8-ccf02d57e3db.017.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture17.png" />
     </td>
   </tr>
   <tr>
