@@ -1,4 +1,4 @@
-|![]()|**XO Lab – Business Performance Report**|
+|![](https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture1.png)|**XO Lab – Business Performance Report**|
 | :- | :- |
 
 **Business Background**
@@ -31,7 +31,7 @@ The primary **north star metric** is **year-over-year (YoY) revenue growth**, su
 
 
 
-![]()**Executive Summary**
+![](https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture2.png)**Executive Summary**
 
 XO Lab experienced a clear business lifecycle: hypergrowth in 2020, stabilization in 2021, and decline in 2022, reflecting pandemic-driven demand shifts and post-pandemic normalization.
 
@@ -61,7 +61,7 @@ Insights
 
 1. **Sales Performance Overview**
 
-   |![]()|![]()|
+   |![](https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture3.png)|![](https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture4.png)|
    | - | - |
 
 **Sales Revenue**
