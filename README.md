@@ -38,7 +38,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Business Performance Overview (2019–2022)</h3>
       <div align="center">
-        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture2.png" alt="XO Lab executive summary" />
+        <img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/4f601645246bb9624e36503e63c992b4ec9f90f3/images/Picture2.png" alt="XO Lab executive summary" />
       </div>
     </td>
   </tr>
