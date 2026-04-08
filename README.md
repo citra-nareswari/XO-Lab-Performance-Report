@@ -186,10 +186,11 @@
 <table align="center">
   <tr>
     <td width="1440" colspan="2">
-      <h2 align="center"><img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" /> Product Performance Overview</h2>
+      <h2 align="center"> Product Performance Overview</h2>
     </td>
   </tr>
   <tr>
+    <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" />
     <td align="center" width="720">
       <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture7.png" />
     </td>
