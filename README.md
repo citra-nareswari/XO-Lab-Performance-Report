@@ -186,16 +186,20 @@
 <table align="center">
   <tr>
     <td width="1440" colspan="2">
-      <h2 align="center"> Product Performance Overview</h2>
+      <h2 align="center">Product Performance Overview</h2>
     </td>
   </tr>
   <tr>
-    <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" />
+    <td align="center" colspan="2">
+      <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" />
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="720">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture7.png" />
+      <img height="320" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture7.png" />
     </td>
     <td align="center" width="720">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture8.png" />
+      <img height="320" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture8.png" />
     </td>
   </tr>
 </table>
@@ -243,22 +247,19 @@
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center"><img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture9.png" /> Refund Rate</h2>
+      <img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture9.png" />
+      <h2 align="center"> Refund Rate</h2>
     </td>
   </tr>
   <tr>
     <td width="1440" align="justify">
       <div align="justify">
-        <ol>
-          <li>
             <strong>Refund rates peaked in 2020, improvement in 2021, and zero refund in 2022</strong>
             <ul>
               <li>Refund rates peaked in 2020 (~9% of total orders) with LG Monitor (11%) and Razer Headset (10%), alongside consistently high rates in premium laptops (~17%). This suggests that <strong>rapid demand growth may have strained product expectations or fulfillment quality</strong>, particularly for high-value items.</li>
               <li>Refund rates declined substantially across all products in 2021 (e.g., LG Monitor: 11% → 5%, Razer Headset: 10% → 4%) despite having larger order volume in the same year. This reflects <strong>improved product-market fit, better customer expectations, or enhanced operational execution</strong> following the 2020 surge.</li>
               <li>The absence of refunds across all products in 2022 is <strong>highly atypical</strong> and unlikely to reflect perfect performance. This more likely indicates <strong>data incompleteness or significantly reduced transaction volume</strong>, aligning with the sharp decline in order volume that year.</li>
             </ul>
-          </li>
-        </ol>
       </div>
     </td>
   </tr>
@@ -275,8 +276,9 @@
 
 <table align="center">
   <tr>
-    <td width="720" align="center"><strong>Sales revenue dominated by non-loyalty customers by 61%</strong></td>
-    <td width="720"></td>
+    <td width="1440" colspan="2" align="center">
+      <strong>Sales revenue dominated by non-loyalty customers by 61%</strong>
+    </td>
   </tr>
   <tr>
     <td width="720" align="center">
