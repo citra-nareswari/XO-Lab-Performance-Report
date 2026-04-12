@@ -92,7 +92,13 @@
   </tr>
 </table>
 
-
+</table>
+<h2 align="center">Dataset Structure and ERD (Entity Relationship Diagram)</h2>
+<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108.127 records.
+</body>
+<div align="center">
+  <img width="680" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/74248728661f0b3952a8366b3cfcb61e95a9d3e8/images/ERDD.png">
+</div>
 
 <table align="center">
   <tr>
