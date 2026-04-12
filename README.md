@@ -267,7 +267,7 @@
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center">Customer Behavior</h2>
+      <h2 align="center">Operational Performance</h2>
       <h3 align="center">Loyalty Status</h3>
     </td>
   </tr>
@@ -275,16 +275,18 @@
 
 <table align="center">
   <tr>
-    <td width="1440" colspan="2" align="center">
+    <td width="1440" colspan="3" align="center">
       <strong>Sales revenue dominated by non-loyalty customers by 61%</strong>
     </td>
   </tr>
   <tr>
     <td width="720" align="center">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture10.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_sales.png"/>
     </td>
     <td width="720" align="center">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture11.png" />
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_aov.png"/>
+    <td width="720" align="center">
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_sales.png"/>
     </td>
   </tr>
 </table>
@@ -325,63 +327,10 @@
 
 <table align="center">
   <tr>
-    <td width="1440" colspan="3">
-      <h3 align="center">Churned vs Retained</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="480" align="center">
-      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture12.png" />
-    </td>
-    <td width="480" align="center">
-      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture13.png" />
-    </td>
-    <td width="480" align="center">
-      <img width="300" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture14.png" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="1440" align="justify">
-      <div align="justify">
-        <ol>
-          <li>
-            Revenue is heavily dependent on churned customers, indicating weak retention quality
-            <ul>
-              <li>C<a name="_hlk226301727"></a>hurned customers <strong>contribute ~$17.4M (62% of total revenue)</strong> vs <strong>$10.7M (38%)</strong> from retained, showing that the business relies heavily on <strong>one-time or short-lived customers.</strong> This pattern is consistent across years, particularly in high-growth periods (e.g., 2020–2021), where churned revenue dominates most quarters.</li>
-              <li>This indicates a structural imbalance, where <strong>acquisition drives revenue more than long-term customer value</strong></li>
-            </ul>
-              <li>
-                Retained customers generate higher AOV, highlighting stronger customer quality
-                <ul>
-                  <li>Retained customers consistently exhibit <strong>higher AOV ($283 vs $248 overall),</strong> with significant gaps in peak periods (e.g., Q2 2020: $354 vs $278, Q2 2021: $340 vs $242). This suggests <strong>retained users are higher-value customers</strong>, likely more engaged and willing to spend more per transaction.</li>
-                  <li>Despite lower contribution to total revenue, retained customers represent <strong>stronger unit economics and higher lifetime value potential.</strong></li>
-                </ul>
-              </li>
-              <li>
-                2022 decline reflects breakdown in both acquisition and retention effectiveness
-                <ul>
-                  <li>Both churned and retained segments show declining order volume in 2022, with sharper drops in later quarters (e.g. <strong>Q4 total orders: 2.9K vs ~9.3K in 2021</strong>).</li>
-                  <li>Revenue contribution becomes more balanced in Q3–Q4 2022, not due to retention improvement, but due to <strong>overall demand contraction.</strong></li>
-                  <li>AOV for both segments converges downward, indicating <strong>reduced spending power and weakening customer engagement across the board.</strong></li>
-                </ul>
-              </li>
-            </ol>
-          </li>
-        </ol>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td width="1440">
-      <h2 align="center">Operational Performance</h2>
       <h3 align="center">Regional Performance</h3>
       <div align="center">
-        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture15.png" />
+        <img width="650" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture15.png" />
       </div>
     </td>
   </tr>
@@ -408,10 +357,10 @@
   </tr>
   <tr>
     <td width="720" align="center">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture16.png" />
+      <img width="350" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture16.png" />
     </td>
     <td width="720" align="center">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture17.png" />
+      <img width="350" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture17.png" />
     </td>
   </tr>
   <tr>
