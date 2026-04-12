@@ -2,16 +2,16 @@
   <img width="150px" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/9d850cf777f68815459bf5150c3d7d6115831edb/images/Picture1.png" />
 </div>
 
-<h1 align="center">XO Lab – Business Performance Report</h1>
+<h1 align="center">XO Lab – E-commerce Performance Report</h1>
 
 <table align="center">
   <tr>
     <td width="1440" align="justify">
       <h2 align="center">Business Background</h2>
       <div align="justify">
-        XO Lab is a US-based e-commerce company specializing in consumer electronics and accessories for global customer base, specifically for gaming support products. Since its establishment in 2018, the company has experienced rapid growth alongside increasing competition and shifting market dynamics during the COVID-19 pandemic.
+        XO Lab is a US-based e-commerce company specializing in consumer electronics and gaming support accessories for a global customer base. Since its establishment in 2018, the company experienced rapid growth, fueled largely by the shifting market dynamics of the COVID-19 pandemic.
         <br><br>
-        Between 2019 and 2022, XO Lab generated over <strong>100K orders</strong> from approximately <strong>88K customers</strong>, resulting in more than <strong>$28 million in revenue</strong>. This dataset captures key business dimensions, including sales, product performance, marketing channels, purchase platform, customer behavior, and operational metrics across regions and loyalty segments.
+        Between 2019 and 2022, XO Lab generated over <strong>100K orders</strong> from approximately <strong>88K customers</strong>, resulting in more than <strong>$28 million in revenue</strong>. This dataset captures key business dimensions, including sales, product performance, and operational metrics across loyalty segments, regional performance, and marketing channel.
       </div>
       <h2 align="center">Objective</h2>
       <div align="justify">
@@ -21,10 +21,9 @@
       </div>
       <div align="justify">
         <ul>
-          <li><strong>Sales Trends</strong><br>Revenue trends, average order value (AOV), and order volume</li>
-          <li><strong>Product Performance</strong><br>Top-performing products, revenue contribution, and refund rates</li>
-          <li><strong>Customer Behavior</strong><br>Loyalty program impact, and customer retention</li>
-          <li><strong>Operational Performance</strong><br>Regional performance and marketing channel effectiveness</li>
+          <li><strong>Sales Trends</strong><br>Revenue trends, average order value (AOV), and order volume.</li>
+          <li><strong>Product Performance</strong><br>Top-performing products, revenue contribution, and refund rates.</li>
+          <li><strong>Operational Performance</strong><br>Loyalty program performance, regional performance and marketing channel effectiveness.</li>
         </ul>
       </div>
     </td>
@@ -32,11 +31,11 @@
 </table>
       <h1 align="center">Executive Summary</h1>
       <div align="center">
-        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/9d850cf777f68815459bf5150c3d7d6115831edb/images/Picture2.png" />
+        <img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/9d850cf777f68815459bf5150c3d7d6115831edb/images/Picture2.png" />
       </div>
       <br>
       <div align="justify">
-        XO Lab experienced a clear business lifecycle: hypergrowth in 2020, stabilization in 2021, and decline in 2022, reflecting pandemic-driven demand shifts and post-pandemic normalization.
+        XO Lab experienced a clear business lifecycle: <strong>hypergrowth in 2020, stabilization in 2021</strong>, and <strong>decline in 2022</strong>, reflecting pandemic-driven demand shifts and post-pandemic normalization.
       </div>
       <br>
 <table align="center">
@@ -55,14 +54,14 @@
           <strong>Seasonality Pattern</strong>
           <ul>
             <li><strong>Q3–Q4 dominated in 2019–2020</strong>, though this seasonal pattern weakened in 2021–2022, suggesting a structural shift in buying behavior.</li>
-            <li>Indicates <strong>revenue is volume-driven</strong>, likely influenced by promotional cycles and holiday demand (e.g. Black Friday, Christmas Sales)</li>
+            <li>Indicates <strong>revenue is volume-driven</strong>, likely influenced by promotional cycles and holiday demand (e.g. Black Friday, Christmas Sales).</li>
             <li>Seasonality pattern remains stable across years except in 2022.</li>
           </ul>
         </li>
         <li>
           <strong>Declining Trend in 2022</strong>
           <ul>
-            <li><strong>Revenue declined by 46% YoY</strong>, primarily driven by a 40% drop in order volume, indicating a significant loss in demand rather than pricing inefficiency.</li>
+            <li><strong>Revenue declined by 46% YoY</strong>, primarily driven by a 40% drop in order volume, indicating a significant loss in all products demand rather than pricing inefficiency.</li>
             <li>Q4 2022 underperformed despite historically being the strongest quarter, breaking the usual seasonal pattern.</li>
             <li>This trend is consistent with post-pandemic behavior indicating <strong>demand is no longer pandemic-driven</strong>, where consumers shifted back to offline channels and reduced online spending, potentially compounded by competition or internal business.</li>
           </ul>
@@ -85,7 +84,7 @@
             <li>Prioritizing Q3–Q4 inventory could protect ~55% of annual revenue contribution and prevent stockout-driven revenue loss.</li>
             <li>Diagnose 2022 decline: deep dive into customer retention, marketing channel, and operational factors to isolate whether churn accelerated, or acquisition declined to help restrategize how to recover post pandemic.</li>
             <li>Adapt to post-pandemic market: recalibrate strategy toward sustainable demand generation beyond pandemic-driven growth. Rebuild seasonal strategy ahead of Q3–Q4 peak period.</li>
-            <li>20222’s AOV has returned to 2019 levels ($230), suggesting pricing power erosion by considering product mix analysis or bundling strategies to recover AOV.</li>
+            <li>2022’s AOV has returned to 2019 levels ($230), suggesting pricing power erosion by considering product mix analysis or bundling strategies to recover AOV.</li>
           </ul>
         </li>
       </ol>
@@ -167,15 +166,16 @@
         </ol>
       </div>
       <div align="center">
-        <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture5.png" />
+        <img width="700" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture5.png" />
       </div>
       <h3 align="center">Order Volume</h3>
+      <div align="center">
+      <h4 align="center">Order volume was the primary driver of revenue hypergrowth and the collapse</h4>
       <div align="justify">
-        Order volume was the primary driver of revenue hypergrowth and the collapse
         <ol>
           <li>In 2020, order volume increased from <strong>16.8K (2019) to 33.9K (2020)</strong> (+101% YoY), effectively doubling and acting as the main contributor to the <strong>+163% revenue growth</strong> in the same period.</li>
           <li>Order volume reached <strong>35.9K in 2021 (+6% YoY)</strong>, surpassing 2020 despite declining AOV, indicating sustained customer activity post-peak pandemic, <strong>customer engagement and purchase frequency remained relatively resilient</strong>.</li>
-          <li>Order volume dropped significantly to <strong>21.6K (-40% YoY) in 2022</strong>, marking the largest decline across all key metrics and the <strong>primary driver</strong> of the <strong>-46% revenue contraction</strong>. The decline was consistent across all quarters, with <strong>Q4-2022 falling to just 2.9K orders</strong>, the lowest quarterly performance in the four-year period.</li>
+          <li>Order volume dropped significantly to <strong>21.6K (-40% YoY) in 2022</strong>, it was the <strong>primary driver</strong> of the <strong>-46% revenue contraction</strong>. The decline was consistent across all quarters, with <strong>Q4-2022 falling to just 2.9K orders</strong>, the lowest quarterly performance in the four-year period.</li>
           <li>This breakdown in volume, particularly during the peak season, indicates <strong>weak demand recovery, potential customer churn, or reduced acquisition effectiveness</strong>.</li>
         </ol>
       </div>
@@ -191,7 +191,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img width="1000" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" />
+      <img width="750" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture6.png" />
     </td>
   </tr>
   <tr>
@@ -207,9 +207,8 @@
 <table align="center">
   <tr>
     <td width="1440" align="justify">
-      <h3 align="center">Product Perfomance</h3>
-      <div align="justify">
-        Device product is major sales contributor, while accessories was the primary order volume contributor.
+      <h3 align="center">Product Perfomance</h3>      
+      <h4 align="center">Device product is major sales contributor, while accessories was the primary order volume contributor</h4>
         <ol>
           <li>
             Revenue is concentrated in a few high-impact products, led by premium devices
@@ -226,13 +225,13 @@
             </ul>
           </li>
           <li>
-            <strong>2022 order volume decline was broad-based across all products</strong>
+            2022 order volume decline was broad-based across all products
             <ul>
               <li>All products sales were going down primarily because of the declined order volume across every product in 2022 that confirms a market-wide demand contraction rather than a product issue, consistent with post-pandemic behavioral normalization where consumers shifted back to offline channels and reduced online spending.</li>
             </ul>
           </li>
           <li>
-            <strong>Stable pricing limits AOV growth, while underperforming products signal portfolio inefficiency</strong>
+            Stable pricing limits AOV growth, while underperforming products signal portfolio inefficiency
             <ul>
               <li>Most products show <strong>low AOV variability (~5% standard deviation)</strong> across periods, indicating <strong>stable pricing with limited optimization efforts.</strong> This suggests that pricing strategy has not been actively leveraged to drive AOV growth, making <strong>pricing and bundling potential opportunities for uplift.</strong></li>
               <li>Several products (e.g., Logitech Mouse, Webcam, ASUS ROG Phone, and specifically HyperX Headset) contribute minimally to revenue despite presence in the portfolio, indicating <strong>unoptimalized product performance</strong> that require further evaluation (e.g., demand issues, positioning, or marketing effectiveness).</li>
@@ -246,9 +245,9 @@
 
 <table align="center">
   <tr>
-    <td width="1440">
-      <img width="800" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture9.png" />
+    <td width="1440" align="center">
       <h2 align="center"> Refund Rate</h2>
+      <img width="400" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/ee5f3327207992eabbe9d13122427b282a9e5421/images/Picture9.png" />
     </td>
   </tr>
   <tr>
@@ -372,8 +371,6 @@
             </ol>
           </li>
         </ol>
-        <div align="justify"><strong>\</strong></div>
-      </div>
     </td>
   </tr>
 </table>
