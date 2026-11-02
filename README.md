@@ -73,18 +73,18 @@
         <li>
           <strong>Key Takeaways</strong>
           <ul>
-            <li><strong>Revenue growth was primarily volume-driven</strong>, with order volume contributing the majority of YoY changes.</li>
-            <li>Strong Q3–Q4 seasonality (55%+ revenue contribution) broke in 2022, signaling demand weakness.</li>
-            <li>The 2022 decline (-46% YoY) suggests issues beyond normalization, likely in retention or product-market fit.</li>
+            <li>Sales Performance: Revenue peaked in 2020 (~$10.2M ,+163% YoY), with Q4 contributing ~30% of the year’s total. <strong> Growth was primarily volume-driven</strong>, boosted by pandemic-era e-commerce demand.</li>
+            <li>Seasonality: Q3-Q4 contributed 55%+ of annual revenue in 2019-2020, but this pattern weakened in 2021 and broke in 2022, signaling demand weakness.</li>
+            <li>Revenue fell 46% YoY on a 40% drop in order volume, and Q4 underperformed, suggests weakening demand beyond post-pandemic normalization, potentially amplified by heavy reliance on the Direct channel and customer retention issues.</li>
           </ul>
         </li>
         <li>
           <strong>Recommendations</strong>
           <ul>
-            <li>Prioritizing Q3–Q4 inventory could protect ~55% of annual revenue contribution and prevent stockout-driven revenue loss.</li>
-            <li>Diagnose 2022 decline: deep dive into customer retention, marketing channel, and operational factors to isolate whether churn accelerated, or acquisition declined to help restrategize how to recover post pandemic.</li>
-            <li>Adapt to post-pandemic market: recalibrate strategy toward sustainable demand generation beyond pandemic-driven growth. Rebuild seasonal strategy ahead of Q3–Q4 peak period.</li>
-            <li>2022’s AOV has returned to 2019 levels ($230), suggesting pricing power erosion by considering product mix analysis or bundling strategies to recover AOV.</li>
+            <li><strong>Product & Seasonality:</strong> To recover order volume, introduce cross-category bundles (laptop/monitor with headset and underperforming accessories) with tiered discounts for multi-item purchases, and rebuild the Q3-Q4 season through a mass-campaign discount week launched ahead of Q3.</li>
+            <li><strong>Promote (Marketing Channel)</strong>: Reduce dependence on the direct channel, by promoting product-bundling through another channel, such as email (solid volume, 18.5K orders) and affiliate (highest AOV, ~$303).</li>
+            <li><strong>Focused Region & Marketing Channel</strong>: Concentrate email and affiliate efforts on North America and EMEA, the top two regions by revenue and order volume with solid AOV, and run a smaller APAC test given its AOV premium.</li>
+            <li><strong>Loyalty Program</strong>: Convert first-time buyers into loyalty members through post-purchase email flows, since loyalty members generated more than half of revenue and volume in 2021–2022 and now sustain the business.</li>
           </ul>
         </li>
       </ol>
@@ -292,7 +292,7 @@
     <td width="720" align="center">
       <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_aov.png"/>
     <td width="720" align="center">
-      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_sales.png"/>
+      <img width="460" src="https://github.com/citra-nareswari/XO-Lab-Performance-Report/blob/fe0859ff87b9b499e8c9c5e2ca8040a5fbbec794/images/loyalty_order.png"/>
     </td>
   </tr>
 </table>
@@ -305,7 +305,7 @@
           <li>
             Non-loyalty customers drive higher AOV, but loyalty customers catch up over time
             <ul>
-              <li>Non-loyalty customers consistently show higher AOV in early <strong>years ($312 vs $210 in 2020)</strong>, indicating stronger high-value, one-time purchases.</li>
+              <li>Non-loyalty customers consistently show higher AOV in early <strong>years ($344 vs $225 in 2020)</strong>, indicating stronger high-value, one-time purchases.</li>
               <li>However, the gap narrows in 2021 and reverses in parts of 2022 (e.g<strong>., Q2–Q3 2022: loyalty AOV &gt; non-loyalty),</strong> <strong>suggesting loyal customers increasingly contribute higher-value transactions over time.</strong> This indicates a shift from <strong>acquisition-driven high spend → retention-driven value extraction.</strong></li>
             </ul>
           </li>
