@@ -329,7 +329,6 @@ JOIN geo_lookup g
     ON c.country_code = g.country_code
 JOIN order_status os
     ON o.order_id = os.order_id
-WHERE os.delivery_days IS NOT NULL
 GROUP BY g.region
 ORDER BY avg_delivery_days ASC;
 
